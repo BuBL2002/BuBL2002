@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## 🌱 I’m currently learning course AI, I will cool programmer😄
 <!--
 **BuBL2002/BuBL2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
